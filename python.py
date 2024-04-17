@@ -22,6 +22,8 @@ for i in range(n):
         else:
             print("$",end=" ")
     print()
+
+
 * 
 # # 
 # # # 
@@ -37,6 +39,8 @@ for i in range(n):
     print()
     space=space-1
     stars=stars+1
+
+
 - - * 
 - * * 
 * * * 
@@ -71,6 +75,8 @@ i am solve 4
 this is getting executed
 i am solveit2
 50
+
+      
 print("hello")
 def solveIt2():
     print("1st is executed")
@@ -118,6 +124,8 @@ solve 4 has still executions
 ntg printed
 before execution
 50
+
+      
 lists:
 a=[1,2,"a","z",4,5]
 n=len(a)
@@ -166,6 +174,8 @@ for i in range(n):
 2
 2
 tranversal=2
+
+          
 def t(l,r):
     res=0
     n=len(l)
@@ -291,6 +301,8 @@ o/p:
   *  *  *  
     *  *  
       *  
+
+  
 dynamic ALLOCATION OF LISTS:
 l=list(map(int,input().split()))
 print(l)
